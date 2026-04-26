@@ -1,113 +1,113 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MDO" tvg-name="A&E" tvg-logo="https://mondrian.claro.com.br/brands/channels/ae.svg" group-title="Canais",A&E
+#EXTINF:-1 tvg-id="MDO" tvg-name="A&E" tvg-logo="https://mondrian.claro.com.br/brands/channels/ae.png" group-title="Canais",A&E
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/ae.m3u8
-#EXTINF:-1 tvg-id="MGM" tvg-name="AMC" tvg-logo="https://mondrian.claro.com.br/brands/channels/amc.svg" group-title="Canais",AMC
+#EXTINF:-1 tvg-id="MGM" tvg-name="AMC" tvg-logo="https://mondrian.claro.com.br/brands/channels/amc.png" group-title="Canais",AMC
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/amc.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://mondrian.claro.com.br/brands/channels/axn.svg" group-title="Canais",AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://mondrian.claro.com.br/brands/channels/axn.png" group-title="Canais",AXN
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/axn.m3u8
-#EXTINF:-1 tvg-id="MNX" tvg-name="Cinemax" tvg-logo="https://mondrian.claro.com.br/brands/channels/cinemax.svg" group-title="Canais",Cinemax
+#EXTINF:-1 tvg-id="MNX" tvg-name="Cinemax" tvg-logo="https://mondrian.claro.com.br/brands/channels/cinemax.png" group-title="Canais",Cinemax
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/cinemax.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo.svg" group-title="Canais",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo.png" group-title="Canais",HBO
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/hbo.m3u8
-#EXTINF:-1 tvg-id="HB2" tvg-name="HBO 2" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo2.svg" group-title="Canais",HBO 2
+#EXTINF:-1 tvg-id="HB2" tvg-name="HBO 2" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo2.png" group-title="Canais",HBO 2
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/hbo2.m3u8
-#EXTINF:-1 tvg-id="HFA" tvg-name="HBO Family" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbofamily.svg" group-title="Canais",HBO Family
+#EXTINF:-1 tvg-id="HFA" tvg-name="HBO Family" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbofamily.png" group-title="Canais",HBO Family
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/hbofamily.m3u8
-#EXTINF:-1 tvg-id="HPL" tvg-name="HBO Plus" tvg-logo="https://mondrian.claro.com.br/brands/channels/hboplus.svg" group-title="Canais",HBO Plus
+#EXTINF:-1 tvg-id="HPL" tvg-name="HBO Plus" tvg-logo="https://mondrian.claro.com.br/brands/channels/hboplus.png" group-title="Canais",HBO Plus
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/hboplus.m3u8
-#EXTINF:-1 tvg-id="MPX" tvg-name="Megapix" tvg-logo="https://mondrian.claro.com.br/brands/channels/megapix.svg" group-title="Canais",Megapix
+#EXTINF:-1 tvg-id="MPX" tvg-name="Megapix" tvg-logo="https://mondrian.claro.com.br/brands/channels/megapix.png" group-title="Canais",Megapix
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/megapix.m3u8
-#EXTINF:-1 tvg-id="SET" tvg-name="Sony" tvg-logo="https://mondrian.claro.com.br/brands/channels/sonychannel.svg" group-title="Canais",Sony
+#EXTINF:-1 tvg-id="SET" tvg-name="Sony" tvg-logo="https://mondrian.claro.com.br/brands/channels/sonychannel.png" group-title="Canais",Sony
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/sonychannel.m3u8
-#EXTINF:-1 tvg-id="SPA" tvg-name="Space" tvg-logo="https://mondrian.claro.com.br/brands/channels/space.svg" group-title="Canais",Space
+#EXTINF:-1 tvg-id="SPA" tvg-name="Space" tvg-logo="https://mondrian.claro.com.br/brands/channels/space.png" group-title="Canais",Space
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/space.m3u8
-#EXTINF:-1 tvg-id="HAL" tvg-name="Studio Universal" tvg-logo="https://mondrian.claro.com.br/brands/channels/studiouniversal.svg" group-title="Canais",Studio Universal
+#EXTINF:-1 tvg-id="HAL" tvg-name="Studio Universal" tvg-logo="https://mondrian.claro.com.br/brands/channels/studiouniversal.png" group-title="Canais",Studio Universal
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/studiouniversal.m3u8
-#EXTINF:-1 tvg-id="TC1" tvg-name="TC Premium" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecinepremium.svg" group-title="Canais",TC Premium
+#EXTINF:-1 tvg-id="TC1" tvg-name="TC Premium" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecinepremium.png" group-title="Canais",TC Premium
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecinepremium.m3u8
-#EXTINF:-1 tvg-id="TC2" tvg-name="TC Action" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecineaction.svg" group-title="Canais",TC Action
+#EXTINF:-1 tvg-id="TC2" tvg-name="TC Action" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecineaction.png" group-title="Canais",TC Action
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecineaction.m3u8
-#EXTINF:-1 tvg-id="TC3" tvg-name="TC Touch" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecinetouch.svg" group-title="Canais",TC Touch
+#EXTINF:-1 tvg-id="TC3" tvg-name="TC Touch" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecinetouch.png" group-title="Canais",TC Touch
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecinetouch.m3u8
-#EXTINF:-1 tvg-id="TC4" tvg-name="TC Pipoca" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecinepipoca.svg" group-title="Canais",TC Pipoca
+#EXTINF:-1 tvg-id="TC4" tvg-name="TC Pipoca" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecinepipoca.png" group-title="Canais",TC Pipoca
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecinepipoca.m3u8
-#EXTINF:-1 tvg-id="TC5" tvg-name="TC Cult" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecinecult.svg" group-title="Canais",TC Cult
+#EXTINF:-1 tvg-id="TC5" tvg-name="TC Cult" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecinecult.png" group-title="Canais",TC Cult
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecinecult.m3u8
-#EXTINF:-1 tvg-id="TC6" tvg-name="TC Fun" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecinefun.svg" group-title="Canais",TC Fun
+#EXTINF:-1 tvg-id="TC6" tvg-name="TC Fun" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecinefun.png" group-title="Canais",TC Fun
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/telecinefun.m3u8
-#EXTINF:-1 tvg-id="USA" tvg-name="Universal TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/universaltv.svg" group-title="Canais",Universal TV
+#EXTINF:-1 tvg-id="USA" tvg-name="Universal TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/universaltv.png" group-title="Canais",Universal TV
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/universaltv.m3u8
-#EXTINF:-1 tvg-id="WBT" tvg-name="Warner Channel" tvg-logo="https://mondrian.claro.com.br/brands/channels/warnerchannel.svg" group-title="Canais",Warner Channel
+#EXTINF:-1 tvg-id="WBT" tvg-name="Warner Channel" tvg-logo="https://mondrian.claro.com.br/brands/channels/warnerchannel.png" group-title="Canais",Warner Channel
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/warnerchannel.m3u8
-#EXTINF:-1 tvg-id="APL" tvg-name="Animal Planet" tvg-logo="https://mondrian.claro.com.br/brands/channels/animalplanet.svg" group-title="Canais",Animal Planet
+#EXTINF:-1 tvg-id="APL" tvg-name="Animal Planet" tvg-logo="https://mondrian.claro.com.br/brands/channels/animalplanet.png" group-title="Canais",Animal Planet
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/animalplanet.m3u8
-#EXTINF:-1 tvg-id="DIS" tvg-name="Discovery Channel" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoverychannel.svg" group-title="Canais",Discovery Channel
+#EXTINF:-1 tvg-id="DIS" tvg-name="Discovery Channel" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoverychannel.png" group-title="Canais",Discovery Channel
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/discoverychannel.m3u8
-#EXTINF:-1 tvg-id="HEA" tvg-name="Discovery H&H" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoveryhh.svg" group-title="Canais",Discovery H&H
+#EXTINF:-1 tvg-id="HEA" tvg-name="Discovery H&H" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoveryhh.png" group-title="Canais",Discovery H&H
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/discoveryhh.m3u8
-#EXTINF:-1 tvg-id="DHD" tvg-name="Discovery Theater" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoverytheater.svg" group-title="Canais",Discovery Theater
+#EXTINF:-1 tvg-id="DHD" tvg-name="Discovery Theater" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoverytheater.png" group-title="Canais",Discovery Theater
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/discoverytheater.m3u8
-#EXTINF:-1 tvg-id="DSC" tvg-name="Discovery Science" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoveryscience.svg" group-title="Canais",Discovery Science
+#EXTINF:-1 tvg-id="DSC" tvg-name="Discovery Science" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoveryscience.png" group-title="Canais",Discovery Science
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/discoveryscience.m3u8
-#EXTINF:-1 tvg-id="DTU" tvg-name="Discovery Turbo" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoveryturbo.svg" group-title="Canais",Discovery Turbo
+#EXTINF:-1 tvg-id="DTU" tvg-name="Discovery Turbo" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoveryturbo.png" group-title="Canais",Discovery Turbo
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/discoveryturbo.m3u8
-#EXTINF:-1 tvg-id="DIW" tvg-name="Discovery World" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoveryworld.svg" group-title="Canais",Discovery World
+#EXTINF:-1 tvg-id="DIW" tvg-name="Discovery World" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoveryworld.png" group-title="Canais",Discovery World
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/discoveryworld.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://mondrian.claro.com.br/brands/channels/tnt.svg" group-title="Canais",TNT
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://mondrian.claro.com.br/brands/channels/tnt.png" group-title="Canais",TNT
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/tnt.m3u8
-#EXTINF:-1 tvg-id="TNS" tvg-name="TNT Series" tvg-logo="https://mondrian.claro.com.br/brands/channels/tntseries.svg" group-title="Canais",TNT Series
+#EXTINF:-1 tvg-id="TNS" tvg-name="TNT Series" tvg-logo="https://mondrian.claro.com.br/brands/channels/tntseries.png" group-title="Canais",TNT Series
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/tntseries.m3u8
-#EXTINF:-1 tvg-id="TRV" tvg-name="TLC" tvg-logo="https://mondrian.claro.com.br/brands/channels/tlc.svg" group-title="Canais",TLC
+#EXTINF:-1 tvg-id="TRV" tvg-name="TLC" tvg-logo="https://mondrian.claro.com.br/brands/channels/tlc.png" group-title="Canais",TLC
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/tlc.m3u8
-#EXTINF:-1 tvg-id="CCE" tvg-name="Comedy Central" tvg-logo="https://mondrian.claro.com.br/brands/channels/comedycentral.svg" group-title="Canais",Comedy Central
+#EXTINF:-1 tvg-id="CCE" tvg-name="Comedy Central" tvg-logo="https://mondrian.claro.com.br/brands/channels/comedycentral.png" group-title="Canais",Comedy Central
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/comedycentral.m3u8
-#EXTINF:-1 tvg-id="HIS" tvg-name="History" tvg-logo="https://mondrian.claro.com.br/brands/channels/history.svg" group-title="Canais",History
+#EXTINF:-1 tvg-id="HIS" tvg-name="History" tvg-logo="https://mondrian.claro.com.br/brands/channels/history.png" group-title="Canais",History
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/history.m3u8
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://mondrian.claro.com.br/brands/channels/tcm.svg" group-title="Canais",TCM
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://mondrian.claro.com.br/brands/channels/tcm.png" group-title="Canais",TCM
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/tcm.m3u8
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://mondrian.claro.com.br/brands/channels/gnt.svg" group-title="Canais",GNT
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://mondrian.claro.com.br/brands/channels/gnt.png" group-title="Canais",GNT
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/gnt.m3u8
-#EXTINF:-1 tvg-id="OFF" tvg-name="Canal OFF" tvg-logo="https://mondrian.claro.com.br/brands/channels/off.svg" group-title="Canais",Canal OFF
+#EXTINF:-1 tvg-id="OFF" tvg-name="Canal OFF" tvg-logo="https://mondrian.claro.com.br/brands/channels/off.png" group-title="Canais",Canal OFF
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/off.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://mondrian.claro.com.br/brands/channels/mtv.svg" group-title="Canais",MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://mondrian.claro.com.br/brands/channels/mtv.png" group-title="Canais",MTV
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/mtv.m3u8
-#EXTINF:-1 tvg-id="MSW" tvg-name="Multishow" tvg-logo="https://mondrian.claro.com.br/brands/channels/multishow.svg" group-title="Canais",Multishow
+#EXTINF:-1 tvg-id="MSW" tvg-name="Multishow" tvg-logo="https://mondrian.claro.com.br/brands/channels/multishow.png" group-title="Canais",Multishow
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/multishow.m3u8
-#EXTINF:-1 tvg-id="CAR" tvg-name="Cartoon Network" tvg-logo="https://mondrian.claro.com.br/brands/channels/cartoonnetwork.svg" group-title="Canais",Cartoon Network
+#EXTINF:-1 tvg-id="CAR" tvg-name="Cartoon Network" tvg-logo="https://mondrian.claro.com.br/brands/channels/cartoonnetwork.png" group-title="Canais",Cartoon Network
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/cartoonnetwork.m3u8
-#EXTINF:-1 tvg-id="DIK" tvg-name="Discovery Kids" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoverykids.svg" group-title="Canais",Discovery Kids
+#EXTINF:-1 tvg-id="DIK" tvg-name="Discovery Kids" tvg-logo="https://mondrian.claro.com.br/brands/channels/discoverykids.png" group-title="Canais",Discovery Kids
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/discoverykids.m3u8
-#EXTINF:-1 tvg-id="GOB" tvg-name="Gloob" tvg-logo="https://mondrian.claro.com.br/brands/channels/gloob.svg" group-title="Canais",Gloob
+#EXTINF:-1 tvg-id="GOB" tvg-name="Gloob" tvg-logo="https://mondrian.claro.com.br/brands/channels/gloob.png" group-title="Canais",Gloob
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/gloob.m3u8
-#EXTINF:-1 tvg-id="135" tvg-name="Combate" tvg-logo="https://mondrian.claro.com.br/brands/channels/combate.svg" group-title="Canais",Combate
+#EXTINF:-1 tvg-id="135" tvg-name="Combate" tvg-logo="https://mondrian.claro.com.br/brands/channels/combate.png" group-title="Canais",Combate
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/combate.m3u8
-#EXTINF:-1 tvg-id="121" tvg-name="Premiere" tvg-logo="https://mondrian.claro.com.br/brands/channels/premiere.svg" group-title="Canais",Premiere
+#EXTINF:-1 tvg-id="121" tvg-name="Premiere" tvg-logo="https://mondrian.claro.com.br/brands/channels/premiere.png" group-title="Canais",Premiere
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/premiere.m3u8
-#EXTINF:-1 tvg-id="SPO" tvg-name="SporTV" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv.svg" group-title="Canais",SporTV
+#EXTINF:-1 tvg-id="SPO" tvg-name="SporTV" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv.png" group-title="Canais",SporTV
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/sportv.m3u8
-#EXTINF:-1 tvg-id="SP2" tvg-name="SporTV 2" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv2.svg" group-title="Canais",SporTV 2
+#EXTINF:-1 tvg-id="SP2" tvg-name="SporTV 2" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv2.png" group-title="Canais",SporTV 2
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/sportv2.m3u8
-#EXTINF:-1 tvg-id="ESP" tvg-name="ESPN" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn.svg" group-title="Canais",ESPN
+#EXTINF:-1 tvg-id="ESP" tvg-name="ESPN" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn.png" group-title="Canais",ESPN
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn.m3u8
-#EXTINF:-1 tvg-id="ES2" tvg-name="ESPN 2" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn2.svg" group-title="Canais",ESPN 2
+#EXTINF:-1 tvg-id="ES2" tvg-name="ESPN 2" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn2.png" group-title="Canais",ESPN 2
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn2.m3u8
-#EXTINF:-1 tvg-id="ES3" tvg-name="ESPN 3" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn3.svg" group-title="Canais",ESPN 3
+#EXTINF:-1 tvg-id="ES3" tvg-name="ESPN 3" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn3.png" group-title="Canais",ESPN 3
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn3.m3u8
-#EXTINF:-1 tvg-id="ES4" tvg-name="ESPN 4" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn4.svg" group-title="Canais",ESPN 4
+#EXTINF:-1 tvg-id="ES4" tvg-name="ESPN 4" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn4.png" group-title="Canais",ESPN 4
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn4.m3u8
-#EXTINF:-1 tvg-id="ES5" tvg-name="ESPN 5" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn5.svg" group-title="Canais",ESPN 5
+#EXTINF:-1 tvg-id="ES5" tvg-name="ESPN 5" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn5.png" group-title="Canais",ESPN 5
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/espn5.m3u8
-#EXTINF:-1 tvg-id="GRD" tvg-name="Globo RJ" tvg-logo="https://mondrian.claro.com.br/brands/channels/globorj.svg" group-title="Canais",Globo RJ
+#EXTINF:-1 tvg-id="GRD" tvg-name="Globo RJ" tvg-logo="https://mondrian.claro.com.br/brands/channels/globorj.png" group-title="Canais",Globo RJ
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/globorj.m3u8
-#EXTINF:-1 tvg-id="GLN" tvg-name="Globo News" tvg-logo="https://mondrian.claro.com.br/brands/channels/globonews.svg" group-title="Canais",Globo News
+#EXTINF:-1 tvg-id="GLN" tvg-name="Globo News" tvg-logo="https://mondrian.claro.com.br/brands/channels/globonews.png" group-title="Canais",Globo News
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/globonews.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ" tvg-logo="https://mondrian.claro.com.br/brands/channels/sbtrj.svg" group-title="Canais",SBT RJ
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ" tvg-logo="https://mondrian.claro.com.br/brands/channels/sbtrj.png" group-title="Canais",SBT RJ
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/sbtrj.m3u8
-#EXTINF:-1 tvg-id="REC" tvg-name="Record RJ" tvg-logo="https://mondrian.claro.com.br/brands/channels/recordrj.svg" group-title="Canais",Record RJ
+#EXTINF:-1 tvg-id="REC" tvg-name="Record RJ" tvg-logo="https://mondrian.claro.com.br/brands/channels/recordrj.png" group-title="Canais",Record RJ
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/recordrj.m3u8
-#EXTINF:-1 tvg-id="BAN" tvg-name="Band RJ" tvg-logo="https://mondrian.claro.com.br/brands/channels/bandrj.svg" group-title="Canais",Band RJ
+#EXTINF:-1 tvg-id="BAN" tvg-name="Band RJ" tvg-logo="https://mondrian.claro.com.br/brands/channels/bandrj.png" group-title="Canais",Band RJ
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/bandrj.m3u8
-#EXTINF:-1 tvg-id="NEW" tvg-name="Band News" tvg-logo="https://mondrian.claro.com.br/brands/channels/bandnews.svg" group-title="Canais",Band News
+#EXTINF:-1 tvg-id="NEW" tvg-name="Band News" tvg-logo="https://mondrian.claro.com.br/brands/channels/bandnews.png" group-title="Canais",Band News
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/bandnews.m3u8
-#EXTINF:-1 tvg-id="CUL" tvg-name="TV Cultura" tvg-logo="https://mondrian.claro.com.br/brands/channels/cultura.svg" group-title="Canais",TV Cultura
+#EXTINF:-1 tvg-id="CUL" tvg-name="TV Cultura" tvg-logo="https://mondrian.claro.com.br/brands/channels/cultura.png" group-title="Canais",TV Cultura
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/cultura.m3u8

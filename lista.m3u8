@@ -111,13 +111,3 @@ https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/bandrj.m3u8
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/bandnews.m3u8
 #EXTINF:-1 tvg-id="CUL" tvg-name="TV Cultura" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/main/logo/cultura.png" group-title="Canais",TV Cultura
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/cultura.m3u8
-#EXTINF:-1 tvg-id="000" tvg-name="24H - Naruto" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/main/logo/24h_naruto.png" group-title="Canais",24H - Naruto
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/24h_naruto.m3u8
-#EXTINF:-1 tvg-id="000" tvg-name="24H - Os Simpsons" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/main/logo/24h_simpsons.png" group-title="Canais",24H - Os Simpsons
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/24h_simpsons.m3u8
-#EXTINF:-1 tvg-id="000" tvg-name="24H - Dragon Ball" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/main/logo/24h_dragonball.png" group-title="Canais",24H - Dragon Ball
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/24h_dragonball.m3u8
-#EXTINF:-1 tvg-id="000" tvg-name="24H - Todo Mundo Odeia o Chris" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/main/logo/24h_odeiachris.png" group-title="Canais",24H - Todo Mundo Odeia o Chris
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/24h_odeiachris.m3u8
-#EXTINF:-1 tvg-id="000" tvg-name="24H - Chaves" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/main/logo/24h_chaves.png" group-title="Canais",24H - Chaves
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/24h_chaves.m3u8

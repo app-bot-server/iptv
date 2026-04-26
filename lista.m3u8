@@ -59,8 +59,6 @@ https://xn--d204s777hp27.cloudfronte.lat/zzzstream/tnt.m3u8
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/tntseries.m3u8
 #EXTINF:-1 tvg-id="TRV" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tlc.png" group-title="Canais",TLC
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/tlc.m3u8
-#EXTINF:-1 tvg-id="CCE" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/comedycentral.png" group-title="Canais",Comedy Central
-https://xn--d204s777hp27.cloudfronte.lat/zzzstream/comedycentral.m3u8
 #EXTINF:-1 tvg-id="HIS" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/history.png" group-title="Canais",History
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/history.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tcm.png" group-title="Canais",TCM

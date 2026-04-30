@@ -1,1 +1,166 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/ae.png",A&E
+http://178.215.227.43/zzzstream/ae.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/amc.png",AMC
+http://178.215.227.43/zzzstream/amc.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/axn.png",AXN
+http://178.215.227.43/zzzstream/axn.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cinemax.png",Cinemax
+http://178.215.227.43/zzzstream/cinemax.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hbo.png",HBO
+http://178.215.227.43/zzzstream/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hbo2.png",HBO 2
+http://178.215.227.43/zzzstream/hbo2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hbofamily.png",HBO Family
+http://178.215.227.43/zzzstream/hbofamily.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hboplus.png",HBO Plus
+http://178.215.227.43/zzzstream/hboplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/megapix.png",Megapix
+http://178.215.227.43/zzzstream/megapix.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/sonychannel.png",Sony Channel
+http://178.215.227.43/zzzstream/sonychannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/space.png",Space
+http://178.215.227.43/zzzstream/space.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/studiouniversal.png",Studio Universal
+http://178.215.227.43/zzzstream/studiouniversal.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecinepremium.png",Telecine Premium
+http://178.215.227.43/zzzstream/telecinepremium.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecineaction.png",Telecine Action
+http://178.215.227.43/zzzstream/telecineaction.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecinetouch.png",Telecine Touch
+http://178.215.227.43/zzzstream/telecinetouch.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecinepipoca.png",Telecine Pipoca
+http://178.215.227.43/zzzstream/telecinepipoca.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecinecult.png",Telecine Cult
+http://178.215.227.43/zzzstream/telecinecult.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecinefun.png",Telecine Fun
+http://178.215.227.43/zzzstream/telecinefun.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/universaltv.png",Universal TV
+http://178.215.227.43/zzzstream/universaltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/warnerchannel.png",Warner Channel
+http://178.215.227.43/zzzstream/warnerchannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/animalplanet.png",Animal Planet
+http://178.215.227.43/zzzstream/animalplanet.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoverychannel.png",Discovery Channel
+http://178.215.227.43/zzzstream/discoverychannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoveryhh.png",Discovery H&H
+http://178.215.227.43/zzzstream/discoveryhh.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoverytheater.png",Discovery Theater
+http://178.215.227.43/zzzstream/discoverytheater.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoveryscience.png",Discovery Science
+http://178.215.227.43/zzzstream/discoveryscience.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoveryturbo.png",Discovery Turbo
+http://178.215.227.43/zzzstream/discoveryturbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoveryworld.png",Discovery World
+http://178.215.227.43/zzzstream/discoveryworld.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tnt.png",TNT
+http://178.215.227.43/zzzstream/tnt.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tntseries.png",TNT Series
+http://178.215.227.43/zzzstream/tntseries.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tlc.png",TLC
+http://178.215.227.43/zzzstream/tlc.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/history.png",History
+http://178.215.227.43/zzzstream/history.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tcm.png",TCM
+http://178.215.227.43/zzzstream/tcm.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/gnt.png",GNT
+http://178.215.227.43/zzzstream/gnt.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/off.png",Canal OFF
+http://178.215.227.43/zzzstream/off.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/mtv.png",MTV
+http://178.215.227.43/zzzstream/mtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/multishow.png",Multishow
+http://178.215.227.43/zzzstream/multishow.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cartoonnetwork.png",Cartoon Network
+http://178.215.227.43/zzzstream/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoverykids.png",Discovery Kids
+http://178.215.227.43/zzzstream/discoverykids.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/gloob.png",Gloob
+http://178.215.227.43/zzzstream/gloob.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/combate.png",Combate
+http://178.215.227.43/zzzstream/combate.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere.png",Premiere
+http://178.215.227.43/zzzstream/premiere.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/sportv.png",SporTV
+http://178.215.227.43/zzzstream/sportv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/sportv2.png",SporTV 2
+http://178.215.227.43/zzzstream/sportv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn.png",ESPN
+http://178.215.227.43/zzzstream/espn.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn2.png",ESPN 2
+http://178.215.227.43/zzzstream/espn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn3.png",ESPN 3
+http://178.215.227.43/zzzstream/espn3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn4.png",ESPN 4
+http://178.215.227.43/zzzstream/espn4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn5.png",ESPN 5
+http://178.215.227.43/zzzstream/espn5.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/globorj.png",Globo RJ
+http://178.215.227.43/zzzstream/globorj.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/globonews.png",Globo News
+http://178.215.227.43/zzzstream/globonews.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/sbtrj.png",SBT RJ
+http://178.215.227.43/zzzstream/sbtrj.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/recordrj.png",Record RJ
+http://178.215.227.43/zzzstream/recordrj.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/bandrj.png",Band RJ
+http://178.215.227.43/zzzstream/bandrj.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/bandnews.png",Band News
+http://178.215.227.43/zzzstream/bandnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cultura.png",TV Cultura
+http://178.215.227.43/zzzstream/cultura.m3u8

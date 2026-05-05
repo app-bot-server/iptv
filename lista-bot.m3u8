@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DIK" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoverykids.png" group-title="Canais",Discovery Kids
+https://25490e7670b67136f6154a72a9f449b5.cloudfronte.lat/zzzstream/discoverykids.m3u8

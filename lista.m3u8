@@ -1,5 +1,44 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="575" tvg-name="bandsports" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/bandsports.png" group-title="Esportes",BandSports
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/bandsports.txt
+
+#EXTINF:-1 tvg-id="754" tvg-name="combate" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/combate.png" group-title="Esportes",Combate
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/combate.txt
+
+#EXTINF:-1 tvg-id="" tvg-name="disneyplus1" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/disneyplus1.png" group-title="Esportes",Disney+
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/disneyplus1.txt
+
+#EXTINF:-1 tvg-id="" tvg-name="disneyplus2" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/disneyplus2.png" group-title="Esportes",Disney+ 2
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/disneyplus2.txt
+
 #EXTINF:-1 tvg-id="" tvg-name="disneyplus3" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/disneyplus3.png" group-title="Esportes",Disney+ 3
 https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/disneyplus3.txt
+
+#EXTINF:-1 tvg-id="570" tvg-name="espn" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn.png" group-title="Esportes",ESPN
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/espn.txt
+
+#EXTINF:-1 tvg-id="571" tvg-name="espn2" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn2.png" group-title="Esportes",ESPN 2
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/espn2.txt
+
+#EXTINF:-1 tvg-id="572" tvg-name="espn3" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn3.png" group-title="Esportes",ESPN 3
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/espn3.txt
+
+#EXTINF:-1 tvg-id="573" tvg-name="espn4" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn4.png" group-title="Esportes",ESPN 4
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/espn4.txt
+
+#EXTINF:-1 tvg-id="" tvg-name="max1" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/max1.png" group-title="Esportes",Max 1
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/max1.txt
+
+#EXTINF:-1 tvg-id="" tvg-name="max2" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/max2.png" group-title="Esportes",Max 2
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/max2.txt
+
+#EXTINF:-1 tvg-id="" tvg-name="max3" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/max3.png" group-title="Esportes",Max 3
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/max3.txt
+
+#EXTINF:-1 tvg-id="711" tvg-name="paramountplus" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/paramountplus.png" group-title="Esportes",Paramount+
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/paramountplus.txt
+
+#EXTINF:-1 tvg-id="712" tvg-name="paramountplus2" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/paramountplus2.png" group-title="Esportes",Paramount+ 2
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/paramountplus2.txt
 

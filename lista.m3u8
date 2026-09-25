@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="disneyplus3" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/disneyplus3.png" group-title="Esportes",Disney+ 3
+https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/disneyplus3.txt
+

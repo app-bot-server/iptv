@@ -177,6 +177,9 @@ https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbomu
 #EXTINF:-1 tvg-id="677" tvg-name="hbopop" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hbopop.png" group-title="Filmes & Séries",HBO Pop
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbopop.txt
 
+#EXTINF:-1 tvg-id="673" tvg-name="hboplus" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hboplus.png" group-title="Filmes & Séries",HBO Plus
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hboplus.txt
+
 #EXTINF:-1 tvg-id="679" tvg-name="hboxtreme" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hboxtreme.png" group-title="Filmes & Séries",HBO Xtreme
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hboxtreme.txt
 
@@ -198,11 +201,11 @@ https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/space
 #EXTINF:-1 tvg-name="starchannel" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/starchannel.png" group-title="Filmes & Séries",Star Channel
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/starchannel.txt
 
+#EXTINF:-1 tvg-id="657" tvg-name="studiouniversal" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/studiouniversal.png" group-title="Filmes & Séries",Studio Universal
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/studiouniversal.txt
+
 #EXTINF:-1 tvg-id="659" tvg-name="tcm" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tcm.png" group-title="Filmes & Séries",TCM
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tcm.txt
-
-#EXTINF:-1 tvg-id="552" tvg-name="tlc" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tlc.png" group-title="Filmes & Séries",TLC
-https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tlc.txt
 
 #EXTINF:-1 tvg-id="651" tvg-name="tnt" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tnt.png" group-title="Filmes & Séries",TNT
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tnt.txt
@@ -215,9 +218,6 @@ https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tntse
 
 #EXTINF:-1 tvg-id="662" tvg-name="telecineaction" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecineaction.png" group-title="Filmes & Séries",Telecine Action
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecineaction.txt
-
-#EXTINF:-1 tvg-id="666" tvg-name="telecinecult" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecinecult.png" group-title="Filmes & Séries",Telecine Cult
-https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinecult.txt
 
 #EXTINF:-1 tvg-id="664" tvg-name="telecinefun" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecinefun.png" group-title="Filmes & Séries",Telecine Fun
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinefun.txt

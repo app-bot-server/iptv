@@ -1,0 +1,1566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="ESP32-S3 IPTV" generator-info-url="https://github.com/app-bot-server/iptv">
+
+  <channel id="638">
+    <display-name>A&E</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/ae.png"/>
+  </channel>
+  <channel id="645">
+    <display-name>AMC</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/amc.png"/>
+  </channel>
+  <channel id="695">
+    <display-name>Rede Aparecida</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/aparecida.png"/>
+  </channel>
+  <channel id="582">
+    <display-name>Animal Planet</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/animalplanet.png"/>
+  </channel>
+  <channel id="635">
+    <display-name>AXN</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/axn.png"/>
+  </channel>
+  <channel id="575">
+    <display-name>BandSports</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/bandsports.png"/>
+  </channel>
+  <channel id="579">
+    <display-name>BandNews TV</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/bandnews.png"/>
+  </channel>
+  <channel id="505">
+    <display-name>Band SP</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/bandsp.png"/>
+  </channel>
+  <channel id="655">
+    <display-name>Cinemax</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cinemax.png"/>
+  </channel>
+  <channel id="608">
+    <display-name>Cartoonito</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cartoonito.png"/>
+  </channel>
+  <channel id="604">
+    <display-name>Cartoon Network</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cartoonnetwork.png"/>
+  </channel>
+  <channel id="694">
+    <display-name>Canção Nova</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cancaonova.png"/>
+  </channel>
+  <channel id="754">
+    <display-name>Combate</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/combate.png"/>
+  </channel>
+  <channel id="577">
+    <display-name>CNN Brasil</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cnnbrasil.png"/>
+  </channel>
+  <channel id="516">
+    <display-name>TV Cultura</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cultura.png"/>
+  </channel>
+  <channel id="581">
+    <display-name>Discovery Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoverychannel.png"/>
+  </channel>
+  <channel id="555">
+    <display-name>Discovery Home & Health</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoveryhh.png"/>
+  </channel>
+  <channel id="600">
+    <display-name>Discovery Kids</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoverykids.png"/>
+  </channel>
+  <channel id="639">
+    <display-name>Discovery ID</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoveryid.png"/>
+  </channel>
+  <channel id="585">
+    <display-name>Discovery Science</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoveryscience.png"/>
+  </channel>
+  <channel id="592">
+    <display-name>Discovery Theater</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoverytheather.png"/>
+  </channel>
+  <channel id="584">
+    <display-name>Discovery Turbo</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoveryturbo.png"/>
+  </channel>
+  <channel id="593">
+    <display-name>Discovery World</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/discoveryworld.png"/>
+  </channel>
+  <channel id="570">
+    <display-name>ESPN</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn.png"/>
+  </channel>
+  <channel id="571">
+    <display-name>ESPN 2</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn2.png"/>
+  </channel>
+  <channel id="572">
+    <display-name>ESPN 3</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn3.png"/>
+  </channel>
+  <channel id="573">
+    <display-name>ESPN 4</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn4.png"/>
+  </channel>
+  <channel id="574">
+    <display-name>ESPN 5</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn5.png"/>
+  </channel>
+  <channel id="569">
+    <display-name>ESPN 6</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn6.png"/>
+  </channel>
+  <channel id="501">
+    <display-name>TV Globo ES</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/globoes.png"/>
+  </channel>
+  <channel id="540">
+    <display-name>GloboNews</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/globonews.png"/>
+  </channel>
+  <channel id="543">
+    <display-name>Globo Novelas</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/globonovelas.png"/>
+  </channel>
+  <channel id="601">
+    <display-name>Gloob</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/gloob.png"/>
+  </channel>
+  <channel id="541">
+    <display-name>GNT</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/gnt.png"/>
+  </channel>
+  <channel id="671">
+    <display-name>HBO</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hbo.png"/>
+  </channel>
+  <channel id="672">
+    <display-name>HBO 2</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hbo2.png"/>
+  </channel>
+  <channel id="675">
+    <display-name>HBO Family</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hbofamily.png"/>
+  </channel>
+  <channel id="678">
+    <display-name>HBO Mundi</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hbomundi.png"/>
+  </channel>
+  <channel id="677">
+    <display-name>HBO Pop</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hbopop.png"/>
+  </channel>
+  <channel id="673">
+    <display-name>HBO Plus</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hboplus.png"/>
+  </channel>
+  <channel id="679">
+    <display-name>HBO Xtreme</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hboxtreme.png"/>
+  </channel>
+  <channel id="560">
+    <display-name>HGTV</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hgtv.png"/>
+  </channel>
+  <channel id="583">
+    <display-name>History</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/history.png"/>
+  </channel>
+  <channel id="594">
+    <display-name>History 2</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/history2.png"/>
+  </channel>
+  <channel id="652">
+    <display-name>Megapix</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/megapix.png"/>
+  </channel>
+  <channel id="542">
+    <display-name>Multishow</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/multishow.png"/>
+  </channel>
+  <channel id="535">
+    <display-name>Canal Off</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/off.png"/>
+  </channel>
+  <channel id="711">
+    <display-name>Paramount+</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/paramountplus.png"/>
+  </channel>
+  <channel id="712">
+    <display-name>Paramount+ 2</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/paramountplus2.png"/>
+  </channel>
+  <channel id="721">
+    <display-name>Premiere</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere.png"/>
+  </channel>
+  <channel id="722">
+    <display-name>Premiere 2</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere2.png"/>
+  </channel>
+  <channel id="723">
+    <display-name>Premiere 3</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere3.png"/>
+  </channel>
+  <channel id="724">
+    <display-name>Premiere 4</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere4.png"/>
+  </channel>
+  <channel id="725">
+    <display-name>Premiere 5</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere5.png"/>
+  </channel>
+  <channel id="726">
+    <display-name>Premiere 6</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere6.png"/>
+  </channel>
+  <channel id="727">
+    <display-name>Premiere 7</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere7.png"/>
+  </channel>
+  <channel id="633">
+    <display-name>Sony Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/sonychannel.png"/>
+  </channel>
+  <channel id="654">
+    <display-name>Space</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/space.png"/>
+  </channel>
+  <channel id="539">
+    <display-name>SporTV</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/sportv.png"/>
+  </channel>
+  <channel id="538">
+    <display-name>SporTV 2</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/sportv2.png"/>
+  </channel>
+  <channel id="537">
+    <display-name>SporTV 3</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/sportv3.png"/>
+  </channel>
+  <channel id="657">
+    <display-name>Studio Universal</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/studiouniversal.png"/>
+  </channel>
+  <channel id="659">
+    <display-name>TCM</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tcm.png"/>
+  </channel>
+  <channel id="662">
+    <display-name>Telecine Action</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecineaction.png"/>
+  </channel>
+  <channel id="666">
+    <display-name>Telecine Cult</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecinecult.png"/>
+  </channel>
+  <channel id="664">
+    <display-name>Telecine Fun</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecinefun.png"/>
+  </channel>
+  <channel id="665">
+    <display-name>Telecine Pipoca</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecinepipoca.png"/>
+  </channel>
+  <channel id="661">
+    <display-name>Telecine Premium</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecinepremium.png"/>
+  </channel>
+  <channel id="663">
+    <display-name>Telecine Touch</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/telecinetouch.png"/>
+  </channel>
+  <channel id="552">
+    <display-name>TLC</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tlc.png"/>
+  </channel>
+  <channel id="651">
+    <display-name>TNT</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tnt.png"/>
+  </channel>
+  <channel id="636">
+    <display-name>TNT Novelas</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tntnovelas.png"/>
+  </channel>
+  <channel id="643">
+    <display-name>TNT Series</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/tntseries.png"/>
+  </channel>
+  <channel id="630">
+    <display-name>Universal TV</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/universaltv.png"/>
+  </channel>
+  <channel id="693">
+    <display-name>Rede Vida</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/redevida.png"/>
+  </channel>
+  <channel id="632">
+    <display-name>Warner Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/warnerchannel.png"/>
+  </channel>
+  <channel id="568">
+    <display-name>X Sports</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/xsports.png"/>
+  </channel>
+  <channel id="642">
+    <display-name>Adult Swim</display-name>
+    <icon src="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/adultswim.png"/>
+  </channel>
+
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="638">
+    <title>Madrugada — A&E</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="638">
+    <title>Manhã — A&E</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="638">
+    <title>Tarde — A&E</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="638">
+    <title>Noite — A&E</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="645">
+    <title>Madrugada — AMC</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="645">
+    <title>Manhã — AMC</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="645">
+    <title>Tarde — AMC</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="645">
+    <title>Noite — AMC</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="695">
+    <title>Madrugada — Rede Aparecida</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="695">
+    <title>Manhã — Rede Aparecida</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="695">
+    <title>Tarde — Rede Aparecida</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="695">
+    <title>Noite — Rede Aparecida</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="582">
+    <title>Madrugada — Animal Planet</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="582">
+    <title>Manhã — Animal Planet</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="582">
+    <title>Tarde — Animal Planet</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="582">
+    <title>Noite — Animal Planet</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="635">
+    <title>Madrugada — AXN</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="635">
+    <title>Manhã — AXN</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="635">
+    <title>Tarde — AXN</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="635">
+    <title>Noite — AXN</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="575">
+    <title>Madrugada — BandSports</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="575">
+    <title>Manhã — BandSports</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="575">
+    <title>Tarde — BandSports</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="575">
+    <title>Noite — BandSports</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="579">
+    <title>Madrugada — BandNews TV</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="579">
+    <title>Manhã — BandNews TV</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="579">
+    <title>Tarde — BandNews TV</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="579">
+    <title>Noite — BandNews TV</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="505">
+    <title>Madrugada — Band SP</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="505">
+    <title>Manhã — Band SP</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="505">
+    <title>Tarde — Band SP</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="505">
+    <title>Noite — Band SP</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="655">
+    <title>Madrugada — Cinemax</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="655">
+    <title>Manhã — Cinemax</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="655">
+    <title>Tarde — Cinemax</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="655">
+    <title>Noite — Cinemax</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="608">
+    <title>Madrugada — Cartoonito</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="608">
+    <title>Manhã — Cartoonito</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="608">
+    <title>Tarde — Cartoonito</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="608">
+    <title>Noite — Cartoonito</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="604">
+    <title>Madrugada — Cartoon Network</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="604">
+    <title>Manhã — Cartoon Network</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="604">
+    <title>Tarde — Cartoon Network</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="604">
+    <title>Noite — Cartoon Network</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="694">
+    <title>Madrugada — Canção Nova</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="694">
+    <title>Manhã — Canção Nova</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="694">
+    <title>Tarde — Canção Nova</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="694">
+    <title>Noite — Canção Nova</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="754">
+    <title>Madrugada — Combate</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="754">
+    <title>Manhã — Combate</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="754">
+    <title>Tarde — Combate</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="754">
+    <title>Noite — Combate</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="577">
+    <title>Madrugada — CNN Brasil</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="577">
+    <title>Manhã — CNN Brasil</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="577">
+    <title>Tarde — CNN Brasil</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="577">
+    <title>Noite — CNN Brasil</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="516">
+    <title>Madrugada — TV Cultura</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="516">
+    <title>Manhã — TV Cultura</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="516">
+    <title>Tarde — TV Cultura</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="516">
+    <title>Noite — TV Cultura</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="581">
+    <title>Madrugada — Discovery Channel</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="581">
+    <title>Manhã — Discovery Channel</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="581">
+    <title>Tarde — Discovery Channel</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="581">
+    <title>Noite — Discovery Channel</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="555">
+    <title>Madrugada — Discovery Home & Health</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="555">
+    <title>Manhã — Discovery Home & Health</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="555">
+    <title>Tarde — Discovery Home & Health</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="555">
+    <title>Noite — Discovery Home & Health</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="600">
+    <title>Madrugada — Discovery Kids</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="600">
+    <title>Manhã — Discovery Kids</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="600">
+    <title>Tarde — Discovery Kids</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="600">
+    <title>Noite — Discovery Kids</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="639">
+    <title>Madrugada — Discovery ID</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="639">
+    <title>Manhã — Discovery ID</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="639">
+    <title>Tarde — Discovery ID</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="639">
+    <title>Noite — Discovery ID</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="585">
+    <title>Madrugada — Discovery Science</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="585">
+    <title>Manhã — Discovery Science</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="585">
+    <title>Tarde — Discovery Science</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="585">
+    <title>Noite — Discovery Science</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="592">
+    <title>Madrugada — Discovery Theater</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="592">
+    <title>Manhã — Discovery Theater</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="592">
+    <title>Tarde — Discovery Theater</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="592">
+    <title>Noite — Discovery Theater</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="584">
+    <title>Madrugada — Discovery Turbo</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="584">
+    <title>Manhã — Discovery Turbo</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="584">
+    <title>Tarde — Discovery Turbo</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="584">
+    <title>Noite — Discovery Turbo</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="593">
+    <title>Madrugada — Discovery World</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="593">
+    <title>Manhã — Discovery World</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="593">
+    <title>Tarde — Discovery World</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="593">
+    <title>Noite — Discovery World</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="570">
+    <title>Madrugada — ESPN</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="570">
+    <title>Manhã — ESPN</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="570">
+    <title>Tarde — ESPN</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="570">
+    <title>Noite — ESPN</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="571">
+    <title>Madrugada — ESPN 2</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="571">
+    <title>Manhã — ESPN 2</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="571">
+    <title>Tarde — ESPN 2</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="571">
+    <title>Noite — ESPN 2</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="572">
+    <title>Madrugada — ESPN 3</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="572">
+    <title>Manhã — ESPN 3</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="572">
+    <title>Tarde — ESPN 3</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="572">
+    <title>Noite — ESPN 3</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="573">
+    <title>Madrugada — ESPN 4</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="573">
+    <title>Manhã — ESPN 4</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="573">
+    <title>Tarde — ESPN 4</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="573">
+    <title>Noite — ESPN 4</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="574">
+    <title>Madrugada — ESPN 5</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="574">
+    <title>Manhã — ESPN 5</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="574">
+    <title>Tarde — ESPN 5</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="574">
+    <title>Noite — ESPN 5</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="569">
+    <title>Madrugada — ESPN 6</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="569">
+    <title>Manhã — ESPN 6</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="569">
+    <title>Tarde — ESPN 6</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="569">
+    <title>Noite — ESPN 6</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="501">
+    <title>Madrugada — TV Globo ES</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="501">
+    <title>Manhã — TV Globo ES</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="501">
+    <title>Tarde — TV Globo ES</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="501">
+    <title>Noite — TV Globo ES</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="540">
+    <title>Madrugada — GloboNews</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="540">
+    <title>Manhã — GloboNews</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="540">
+    <title>Tarde — GloboNews</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="540">
+    <title>Noite — GloboNews</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="543">
+    <title>Madrugada — Globo Novelas</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="543">
+    <title>Manhã — Globo Novelas</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="543">
+    <title>Tarde — Globo Novelas</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="543">
+    <title>Noite — Globo Novelas</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="601">
+    <title>Madrugada — Gloob</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="601">
+    <title>Manhã — Gloob</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="601">
+    <title>Tarde — Gloob</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="601">
+    <title>Noite — Gloob</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="541">
+    <title>Madrugada — GNT</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="541">
+    <title>Manhã — GNT</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="541">
+    <title>Tarde — GNT</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="541">
+    <title>Noite — GNT</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="671">
+    <title>Madrugada — HBO</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="671">
+    <title>Manhã — HBO</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="671">
+    <title>Tarde — HBO</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="671">
+    <title>Noite — HBO</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="672">
+    <title>Madrugada — HBO 2</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="672">
+    <title>Manhã — HBO 2</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="672">
+    <title>Tarde — HBO 2</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="672">
+    <title>Noite — HBO 2</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="675">
+    <title>Madrugada — HBO Family</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="675">
+    <title>Manhã — HBO Family</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="675">
+    <title>Tarde — HBO Family</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="675">
+    <title>Noite — HBO Family</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="678">
+    <title>Madrugada — HBO Mundi</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="678">
+    <title>Manhã — HBO Mundi</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="678">
+    <title>Tarde — HBO Mundi</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="678">
+    <title>Noite — HBO Mundi</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="677">
+    <title>Madrugada — HBO Pop</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="677">
+    <title>Manhã — HBO Pop</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="677">
+    <title>Tarde — HBO Pop</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="677">
+    <title>Noite — HBO Pop</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="673">
+    <title>Madrugada — HBO Plus</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="673">
+    <title>Manhã — HBO Plus</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="673">
+    <title>Tarde — HBO Plus</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="673">
+    <title>Noite — HBO Plus</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="679">
+    <title>Madrugada — HBO Xtreme</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="679">
+    <title>Manhã — HBO Xtreme</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="679">
+    <title>Tarde — HBO Xtreme</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="679">
+    <title>Noite — HBO Xtreme</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="560">
+    <title>Madrugada — HGTV</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="560">
+    <title>Manhã — HGTV</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="560">
+    <title>Tarde — HGTV</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="560">
+    <title>Noite — HGTV</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="583">
+    <title>Madrugada — History</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="583">
+    <title>Manhã — History</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="583">
+    <title>Tarde — History</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="583">
+    <title>Noite — History</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="594">
+    <title>Madrugada — History 2</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="594">
+    <title>Manhã — History 2</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="594">
+    <title>Tarde — History 2</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="594">
+    <title>Noite — History 2</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="652">
+    <title>Madrugada — Megapix</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="652">
+    <title>Manhã — Megapix</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="652">
+    <title>Tarde — Megapix</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="652">
+    <title>Noite — Megapix</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="542">
+    <title>Madrugada — Multishow</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="542">
+    <title>Manhã — Multishow</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="542">
+    <title>Tarde — Multishow</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="542">
+    <title>Noite — Multishow</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="535">
+    <title>Madrugada — Canal Off</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="535">
+    <title>Manhã — Canal Off</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="535">
+    <title>Tarde — Canal Off</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="535">
+    <title>Noite — Canal Off</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="711">
+    <title>Madrugada — Paramount+</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="711">
+    <title>Manhã — Paramount+</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="711">
+    <title>Tarde — Paramount+</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="711">
+    <title>Noite — Paramount+</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="712">
+    <title>Madrugada — Paramount+ 2</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="712">
+    <title>Manhã — Paramount+ 2</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="712">
+    <title>Tarde — Paramount+ 2</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="712">
+    <title>Noite — Paramount+ 2</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="721">
+    <title>Madrugada — Premiere</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="721">
+    <title>Manhã — Premiere</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="721">
+    <title>Tarde — Premiere</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="721">
+    <title>Noite — Premiere</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="722">
+    <title>Madrugada — Premiere 2</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="722">
+    <title>Manhã — Premiere 2</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="722">
+    <title>Tarde — Premiere 2</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="722">
+    <title>Noite — Premiere 2</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="723">
+    <title>Madrugada — Premiere 3</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="723">
+    <title>Manhã — Premiere 3</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="723">
+    <title>Tarde — Premiere 3</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="723">
+    <title>Noite — Premiere 3</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="724">
+    <title>Madrugada — Premiere 4</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="724">
+    <title>Manhã — Premiere 4</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="724">
+    <title>Tarde — Premiere 4</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="724">
+    <title>Noite — Premiere 4</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="725">
+    <title>Madrugada — Premiere 5</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="725">
+    <title>Manhã — Premiere 5</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="725">
+    <title>Tarde — Premiere 5</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="725">
+    <title>Noite — Premiere 5</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="726">
+    <title>Madrugada — Premiere 6</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="726">
+    <title>Manhã — Premiere 6</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="726">
+    <title>Tarde — Premiere 6</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="726">
+    <title>Noite — Premiere 6</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="727">
+    <title>Madrugada — Premiere 7</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="727">
+    <title>Manhã — Premiere 7</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="727">
+    <title>Tarde — Premiere 7</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="727">
+    <title>Noite — Premiere 7</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="633">
+    <title>Madrugada — Sony Channel</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="633">
+    <title>Manhã — Sony Channel</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="633">
+    <title>Tarde — Sony Channel</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="633">
+    <title>Noite — Sony Channel</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="654">
+    <title>Madrugada — Space</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="654">
+    <title>Manhã — Space</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="654">
+    <title>Tarde — Space</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="654">
+    <title>Noite — Space</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="539">
+    <title>Madrugada — SporTV</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="539">
+    <title>Manhã — SporTV</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="539">
+    <title>Tarde — SporTV</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="539">
+    <title>Noite — SporTV</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="538">
+    <title>Madrugada — SporTV 2</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="538">
+    <title>Manhã — SporTV 2</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="538">
+    <title>Tarde — SporTV 2</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="538">
+    <title>Noite — SporTV 2</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="537">
+    <title>Madrugada — SporTV 3</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="537">
+    <title>Manhã — SporTV 3</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="537">
+    <title>Tarde — SporTV 3</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="537">
+    <title>Noite — SporTV 3</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="657">
+    <title>Madrugada — Studio Universal</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="657">
+    <title>Manhã — Studio Universal</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="657">
+    <title>Tarde — Studio Universal</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="657">
+    <title>Noite — Studio Universal</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="659">
+    <title>Madrugada — TCM</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="659">
+    <title>Manhã — TCM</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="659">
+    <title>Tarde — TCM</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="659">
+    <title>Noite — TCM</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="662">
+    <title>Madrugada — Telecine Action</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="662">
+    <title>Manhã — Telecine Action</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="662">
+    <title>Tarde — Telecine Action</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="662">
+    <title>Noite — Telecine Action</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="666">
+    <title>Madrugada — Telecine Cult</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="666">
+    <title>Manhã — Telecine Cult</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="666">
+    <title>Tarde — Telecine Cult</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="666">
+    <title>Noite — Telecine Cult</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="664">
+    <title>Madrugada — Telecine Fun</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="664">
+    <title>Manhã — Telecine Fun</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="664">
+    <title>Tarde — Telecine Fun</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="664">
+    <title>Noite — Telecine Fun</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="665">
+    <title>Madrugada — Telecine Pipoca</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="665">
+    <title>Manhã — Telecine Pipoca</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="665">
+    <title>Tarde — Telecine Pipoca</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="665">
+    <title>Noite — Telecine Pipoca</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="661">
+    <title>Madrugada — Telecine Premium</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="661">
+    <title>Manhã — Telecine Premium</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="661">
+    <title>Tarde — Telecine Premium</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="661">
+    <title>Noite — Telecine Premium</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="663">
+    <title>Madrugada — Telecine Touch</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="663">
+    <title>Manhã — Telecine Touch</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="663">
+    <title>Tarde — Telecine Touch</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="663">
+    <title>Noite — Telecine Touch</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="552">
+    <title>Madrugada — TLC</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="552">
+    <title>Manhã — TLC</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="552">
+    <title>Tarde — TLC</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="552">
+    <title>Noite — TLC</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="651">
+    <title>Madrugada — TNT</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="651">
+    <title>Manhã — TNT</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="651">
+    <title>Tarde — TNT</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="651">
+    <title>Noite — TNT</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="636">
+    <title>Madrugada — TNT Novelas</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="636">
+    <title>Manhã — TNT Novelas</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="636">
+    <title>Tarde — TNT Novelas</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="636">
+    <title>Noite — TNT Novelas</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="643">
+    <title>Madrugada — TNT Series</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="643">
+    <title>Manhã — TNT Series</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="643">
+    <title>Tarde — TNT Series</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="643">
+    <title>Noite — TNT Series</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="630">
+    <title>Madrugada — Universal TV</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="630">
+    <title>Manhã — Universal TV</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="630">
+    <title>Tarde — Universal TV</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="630">
+    <title>Noite — Universal TV</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="693">
+    <title>Madrugada — Rede Vida</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="693">
+    <title>Manhã — Rede Vida</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="693">
+    <title>Tarde — Rede Vida</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="693">
+    <title>Noite — Rede Vida</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="632">
+    <title>Madrugada — Warner Channel</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="632">
+    <title>Manhã — Warner Channel</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="632">
+    <title>Tarde — Warner Channel</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="632">
+    <title>Noite — Warner Channel</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="568">
+    <title>Madrugada — X Sports</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="568">
+    <title>Manhã — X Sports</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="568">
+    <title>Tarde — X Sports</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="568">
+    <title>Noite — X Sports</title>
+    <desc>Programação da noite</desc>
+  </programme>
+  <programme start="20260928000000 -0300" stop="20260928060000 -0300" channel="642">
+    <title>Madrugada — Adult Swim</title>
+    <desc>Transmissão contínua</desc>
+  </programme>
+  <programme start="20260928060000 -0300" stop="20260928120000 -0300" channel="642">
+    <title>Manhã — Adult Swim</title>
+    <desc>Programação da manhã</desc>
+  </programme>
+  <programme start="20260928120000 -0300" stop="20260928180000 -0300" channel="642">
+    <title>Tarde — Adult Swim</title>
+    <desc>Programação da tarde</desc>
+  </programme>
+  <programme start="20260928180000 -0300" stop="20260929000000 -0300" channel="642">
+    <title>Noite — Adult Swim</title>
+    <desc>Programação da noite</desc>
+  </programme>
+</tv>

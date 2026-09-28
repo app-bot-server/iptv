@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="CLARO_501" tvg-name="globoes" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/globoes.png" group-title="Abertos",TV Globo ES
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globoes.txt
 
+#EXTINF:-1 tvg-id="CLARO_695" tvg-name="aparecida" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/aparecida.png" group-title="Abertos",Rede Aparecida
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/aparecida.txt
+
 #EXTINF:-1 tvg-id="CLARO_516" tvg-name="cultura" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cultura.png" group-title="Abertos",TV Cultura
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cultura.txt
 

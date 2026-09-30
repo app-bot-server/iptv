@@ -1,7 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/programacao.xml"
 
-#EXTINF:-1 tvg-id="CLARO_501" tvg-name="globoes" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/globoes.png" group-title="Abertos",TV Globo ES
+#EXTINF:-1 tvg-id="CLARO_501" tvg-name="globoes" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/globoes.png" group-title="Abertos",Globo
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globoes.txt
+
+#EXTINF:-1 tvg-id="CLARO_509" tvg-name="sbt" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/sbt.png" group-title="Abertos",SBT
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sbt.txt
 
 #EXTINF:-1 tvg-id="CLARO_695" tvg-name="aparecida" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/aparecida.png" group-title="Abertos",Rede Aparecida
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/aparecida.txt
@@ -48,26 +51,8 @@ https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn5
 #EXTINF:-1 tvg-id="CLARO_569" tvg-name="espn6" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/espn6.png" group-title="Esportes",ESPN 6
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn6.txt
 
-#EXTINF:-1 tvg-id="CLARO_721" tvg-name="premiere" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere.png" group-title="Esportes",Premiere
+#EXTINF:-1 tvg-id="CLARO_721" tvg-name="premiere" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere.png" group-title="Esportes",Premiere Clubs
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere.txt
-
-#EXTINF:-1 tvg-id="CLARO_722" tvg-name="premiere2" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere2.png" group-title="Esportes",Premiere 2
-https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.txt
-
-#EXTINF:-1 tvg-id="CLARO_723" tvg-name="premiere3" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere3.png" group-title="Esportes",Premiere 3
-https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere3.txt
-
-#EXTINF:-1 tvg-id="CLARO_724" tvg-name="premiere4" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere4.png" group-title="Esportes",Premiere 4
-https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere4.txt
-
-#EXTINF:-1 tvg-id="CLARO_725" tvg-name="premiere5" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere5.png" group-title="Esportes",Premiere 5
-https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere5.txt
-
-#EXTINF:-1 tvg-id="CLARO_726" tvg-name="premiere6" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere6.png" group-title="Esportes",Premiere 6
-https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere6.txt
-
-#EXTINF:-1 tvg-id="CLARO_727" tvg-name="premiere7" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere7.png" group-title="Esportes",Premiere 7
-https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere7.txt
 
 #EXTINF:-1 tvg-id="CLARO_655" tvg-name="cinemax" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cinemax.png" group-title="Séries",Cinemax
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cinemax.txt
@@ -104,9 +89,6 @@ https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbopo
 
 #EXTINF:-1 tvg-id="CLARO_673" tvg-name="hboplus" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hboplus.png" group-title="Séries",HBO Plus
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hboplus.txt
-
-#EXTINF:-1 tvg-id="CLARO_679" tvg-name="hboxtreme" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hboxtreme.png" group-title="Séries",HBO Xtreme
-https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hboxtreme.txt
 
 #EXTINF:-1 tvg-id="CLARO_560" tvg-name="hgtv" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hgtv.png" group-title="Séries",HGTV
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hgtv.txt
@@ -165,9 +147,6 @@ https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/unive
 #EXTINF:-1 tvg-id="CLARO_632" tvg-name="warnerchannel" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/warnerchannel.png" group-title="Séries",Warner Channel
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/warnerchannel.txt
 
-#EXTINF:-1 tvg-id="CLARO_642" tvg-name="adultswim" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/adultswim.png" group-title="Séries",Adult Swim
-https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/adultswim.txt
-
 #EXTINF:-1 tvg-id="CLARO_582" tvg-name="animalplanet" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/animalplanet.png" group-title="Doc",Animal Planet
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/animalplanet.txt
 
@@ -197,6 +176,9 @@ https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/histo
 
 #EXTINF:-1 tvg-id="CLARO_594" tvg-name="history2" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/history2.png" group-title="Doc",History 2
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/history2.txt
+
+#EXTINF:-1 tvg-id="CLARO_642" tvg-name="adultswim" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/adultswim.png" group-title="Infantil",Adult Swim
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/adultswim.txt
 
 #EXTINF:-1 tvg-id="CLARO_608" tvg-name="cartoonito" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cartoonito.png" group-title="Infantil",Cartoonito
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonito.txt

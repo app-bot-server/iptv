@@ -90,6 +90,9 @@ https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/gnt.t
 #EXTINF:-1 tvg-id="CLARO_543" tvg-name="globonovelas" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/globonovelas.png" group-title="Séries",Globo Novelas
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globonovelas.txt
 
+#EXTINF:-1 tvg-id="CLARO_671" tvg-name="hbo" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hbo.png" group-title="Séries",HBO
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo.txt
+
 #EXTINF:-1 tvg-id="CLARO_672" tvg-name="hbo2" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/hbo2.png" group-title="Séries",HBO 2
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo2.txt
 

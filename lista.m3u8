@@ -54,6 +54,24 @@ https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn6
 #EXTINF:-1 tvg-id="CLARO_721" tvg-name="premiere" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere.png" group-title="Esportes",Premiere Clubs
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere.txt
 
+#EXTINF:-1 tvg-id="CLARO_722" tvg-name="premiere2" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere2.png" group-title="Esportes",Premiere 2
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.txt
+
+#EXTINF:-1 tvg-id="CLARO_723" tvg-name="premiere3" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere3.png" group-title="Esportes",Premiere 3
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere3.txt
+
+#EXTINF:-1 tvg-id="CLARO_724" tvg-name="premiere4" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere4.png" group-title="Esportes",Premiere 4
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere4.txt
+
+#EXTINF:-1 tvg-id="CLARO_725" tvg-name="premiere5" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere5.png" group-title="Esportes",Premiere 5
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere5.txt
+
+#EXTINF:-1 tvg-id="CLARO_726" tvg-name="premiere6" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere6.png" group-title="Esportes",Premiere 6
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere6.txt
+
+#EXTINF:-1 tvg-id="CLARO_727" tvg-name="premiere7" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/premiere7.png" group-title="Esportes",Premiere 7
+https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere7.txt
+
 #EXTINF:-1 tvg-id="CLARO_655" tvg-name="cinemax" tvg-logo="https://raw.githubusercontent.com/app-bot-server/iptv/refs/heads/main/logo/cinemax.png" group-title="Séries",Cinemax
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cinemax.txt
 
